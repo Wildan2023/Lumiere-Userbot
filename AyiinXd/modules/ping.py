@@ -3,9 +3,9 @@
 # Licensed under the Raphielscape Public License, Version 1.d (the "License");
 # you may not use this file except in compliance with the License.
 #
-# ReCode by @mrismanaziz
-# FROM Man-Userbot <https://github.com/mrismanaziz/Man-Userbot>
-# t.me/SharingUserbot & t.me/Lunatic0de
+# ReCode by @mhmdwldnnnn
+# FROM Man-Userbot <https://github.com/Wildan2023/Man-Userbot>
+# t.me/musicsupport_dan & t.me/Disney_storeDan
 
 
 import time
